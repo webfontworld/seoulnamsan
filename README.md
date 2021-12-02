@@ -49,7 +49,7 @@
         url('https://cdn.jsdelivr.net/gh/webfontworld/seoulnamsan/SeoulNamsanExtraBold.ttf') format("truetype");
     font-display: swap;
 }
-
+</pre>
 
 
 # 서울 남산체 - 장체(SeoulNamsanC)
@@ -114,3 +114,4 @@
         url('https://cdn.jsdelivr.net/gh/webfontworld/seoulnamsan/SeoulNamsanCBlack.ttf') format("truetype");
     font-display: swap;
 }
+</pre>
